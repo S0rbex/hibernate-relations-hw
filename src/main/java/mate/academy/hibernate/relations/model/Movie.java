@@ -80,4 +80,3 @@ public class Movie implements Cloneable {
                 + '}';
     }
 }
-
